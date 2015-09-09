@@ -1,0 +1,2 @@
+numStars 8
+numMissiles 20
